@@ -1,0 +1,58 @@
+# Arquivos e diretórios a serem ignorados pelo Git
+
+# Dependências instaladas pelo npm
+/node_modules
+
+# Arquivos gerados pelo ambiente de desenvolvimento
+/.env
+/.env.local
+/.env.*.local
+
+# Arquivos de build
+/move/build
+/move/dist
+
+# Logs e arquivos temporários
+/logs
+/tmp
+
+# Arquivos de configuração específicos do editor
+.idea
+.vscode
+
+# Arquivos de cache
+/.cache
+
+# Arquivos de backup
+*.bak
+*.swp
+
+# Pasta específica do projeto em Aptos
+/move/.aptos
+
+# Arquivos de backup
+*.bak
+*.swp
+
+# Arquivos de cache
+/.cache
+
+# Arquivos de build
+/build
+/dist
+
+# Dependências instaladas pelo npm
+/node_modules
+
+# Arquivos gerados pelo ambiente de desenvolvimento
+/.env
+/.env.local
+/.env.*.local
+
+# Arquivos de configuração específicos do editor
+.idea
+.vscode
+
+# Logs e arquivos temporários
+/logs
+/tmp
