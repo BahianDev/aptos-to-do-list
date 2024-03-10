@@ -1,5 +1,3 @@
-// Todo List DApp
-
 ## Description
 This is a simple Todo List decentralized application (DApp) built on the Aptos blockchain using the Move programming language.
 
